@@ -1,0 +1,43 @@
+[{
+    "image": "/source/song_1.jpg",
+    "audio": "/source/song_1.mp3",
+    "song": "丑八怪",
+    "album": "意外",
+    "singer": "薛之谦",
+    "duration": 253,
+    "isLike": false
+  },
+  {
+    "image": "/source/song_2.jpg",
+    "audio": "/source/song_2.mp3",
+    "song": "小半",
+    "album": "小梦大半",
+    "singer": "陈粒",
+    "duration": 297,
+    "isLike": false
+  },
+  {
+    "image": "/source/song_3.jpg",
+    "audio": "/source/song_3.mp3",
+    "song": "Shape of You",
+    "album": "WODERFUL U",
+    "singer": "ed sheeran",
+    "duration": 235,
+    "isLike": false
+  },{
+    "image": "/source/song_4.jpg",
+    "audio": "/source/song_4.mp3",
+    "song": "旅客",
+    "album": "你不能爱我",
+    "singer": "牛奶咖啡",
+    "duration": 258,
+    "isLike": true
+  },{
+    "image": "/source/song_5.jpg",
+    "audio": "/source/song_5.mp3",
+    "song": "讲真的",
+    "album": "不要你为难",
+    "singer": "曾惜",
+    "duration": 238,
+    "isLike": false
+  }]
